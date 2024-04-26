@@ -3,9 +3,10 @@
 @import url(/blocks/footer.css);
 
 body {
+  padding: 120px 0;
   color: white;
   margin: auto;
-  background-color: rgb(77, 75, 75);
+  background-color: #161819;
 }
 
 div {
