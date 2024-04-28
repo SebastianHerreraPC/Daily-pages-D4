@@ -1,0 +1,36 @@
+.content {
+  width: 40%;
+  margin: auto;
+}
+.content__container {
+}
+.content__head {
+}
+.content__title {
+}
+.content__title_item_main {
+  color: #f66;
+  font-size: 55px;
+  line-height: 70px;
+  margin-bottom: 60px;
+}
+.content__text {
+  font-size: 24px;
+  line-height: 36px;
+  margin-bottom: 60px;
+}
+.content__quote {
+  font-size: 30px;
+  line-height: 42px;
+  padding: 40px;
+  margin-bottom: 60px;
+  border-top: 2px solid #ff6666;
+  border-bottom: 2px solid #ff6666;
+}
+.content__quote-origin {
+  display: block;
+  color: #a6a6a6;
+  font-size: 20px;
+  margin-top: 50px;
+  margin-right: -50px;
+}
