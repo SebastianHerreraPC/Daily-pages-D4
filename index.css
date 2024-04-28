@@ -8,7 +8,10 @@ body {
   margin: auto;
   background-color: #161819;
 }
-
+.content {
+  width: 40%;
+  margin: auto;
+}
 div {
   border: 1px solid red;
 }
