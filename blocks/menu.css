@@ -1,4 +1,5 @@
 .menu__item {
+  position: fixed;
 }
 
 .menu__item_theme_landscape {
@@ -14,10 +15,16 @@
 }
 
 .menu__link {
+  font-size: 15px;
+  color: #a6a6a6;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .menu__link:hover {
+  color: #ff6666;
 }
 .menu__picture {
+  display: none;
 }
 .menu__picture_theme_landscape {
 }
