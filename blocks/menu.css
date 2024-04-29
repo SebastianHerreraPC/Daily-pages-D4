@@ -1,17 +1,29 @@
 .menu__item {
   position: fixed;
+  z-index: 1;
 }
 
 .menu__item_theme_landscape {
+  top: 40px;
+  left: 40px;
 }
 
 .menu__item_theme_portrait {
+  top: 40px;
+  right: 40px;
 }
 
 .menu__item_theme_viewpoint {
+  bottom: 40px;
+  left: 40px;
 }
 
 .menu__item_theme_expression {
+  bottom: 40px;
+  right: 40px;
+}
+.menu__item:hover .menu__picture {
+  display: block;
 }
 
 .menu__link {
@@ -25,15 +37,25 @@
 }
 .menu__picture {
   display: none;
+  position: absolute;
+  width: 300px;
 }
 .menu__picture_theme_landscape {
+  top: 40px;
+  left: 40px;
 }
 
 .menu__picture_theme_portrait {
+  top: 40px;
+  right: 40px;
 }
 
 .menu__picture_theme_viewpoint {
+  bottom: 40px;
+  left: 40px;
 }
 
 .menu__picture_theme_expression {
+  bottom: 40px;
+  right: 40px;
 }
