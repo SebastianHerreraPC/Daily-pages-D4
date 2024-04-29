@@ -34,3 +34,27 @@
   margin-top: 50px;
   margin-right: -50px;
 }
+
+.content__image {
+}
+.content__image-item {
+}
+.content__image-cover {
+}
+.content__image-cover:hover {
+}
+.content__image-name {
+}
+
+.content__item_type_copyright {
+  margin-top: 40px;
+  font-size: 22px;
+  line-height: 30px;
+  color: #a6a6a6;
+}
+
+.content__text_type_copyright {
+  font-size: 16px;
+  line-height: 24px;
+  margin-bottom: 0;
+}
